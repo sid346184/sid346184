@@ -1,6 +1,6 @@
 <img align="right" alt="coding" src="Me1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
+<h1 align="center">Hi folks, I'm Siddhant Gupta</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
 - 🔭 I’m currently working on **reaching and understanding new AI technologies**
