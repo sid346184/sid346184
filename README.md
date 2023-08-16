@@ -1,4 +1,4 @@
-
+<img align="right" alt="coding" src="/sid346184/sid346184/raw/main/Bottom.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
 <h3 align="center">A passionate programmer from India</h3>
