@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gsid306@gmail.com**
 
-- 📄 Know about my quality different from others [My main OS is ubuntu previous one was kali linux](My main OS is ubuntu previous one was kali linux)
+- 📄 Know about my quality different from others [My main OS is ubuntu previous one was kali linux]
 
 - ⚡ Fun fact **....I know how to centre a div....**
 
