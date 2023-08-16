@@ -1,4 +1,4 @@
-<div>https://www.google.com/url?sa=i&url=https%3A%2F%2Fopensea.io%2Fassets%2Fmatic%2F0x2953399124f0cbb46d2cbacd8a89cf0599974963%2F60450985394250500379570173737850728793158825866208713302522449998118794559489&psig=AOvVaw2rGPxlr5pEGmTrkw5vOXCP&ust=1692278932391000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCI57ek4YADFQAAAAAdAAAAABAE</div>
+
 
 <h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
 <h3 align="center">A passionate programmer from India</h3>
