@@ -61,12 +61,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    width="left"   
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sid346284&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
-    alt="sid346184"
-  />
-</p>
+
 
 <img align="center" alt="coding" src="bottom.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
