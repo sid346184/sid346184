@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid346184&label=Profile%20views&color=0e75b6&style=flat" alt="sid346184" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid346184" alt="sid346184" /></a> </p>
+
 
 - 🔭 I’m currently working on **reaching and understanding new AI technologies**
 
@@ -21,6 +21,8 @@
 - 📄 Know about my quality different from others [My main OS is ubuntu previous one was kali linux](My main OS is ubuntu previous one was kali linux)
 
 - ⚡ Fun fact **....I know how to centre a div....**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid346184" alt="sid346184" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
