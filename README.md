@@ -47,8 +47,28 @@
       src="https://github-profile-trophy.vercel.app/?username=sid346184&theme=radical&hide_border=true"
       alt="sid346184" /></a></p>
 
+<p align="center">
+  &nbsp;<img
+           width="467"
+    src="https://github-readme-stats.vercel.app/api?username=sid346184&show_icons=true&locale=en&theme=radical&hide_border=true"
+    alt="sid346184"
+  />
+</p>
 
+<p align="center">
+  <img
+     width="467"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sid346184&theme=radical&hide_border=true"
+    alt="sid346184"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid346184&" alt="sid346184" /></p>
+<p align="center">
+  <img 
+    width="left"   
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sid346284&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
+    alt="sid346184"
+  />
+</p>
 
 <img align="center" alt="coding" src="bottom.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
