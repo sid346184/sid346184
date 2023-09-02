@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to crack **GSoC**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sid346184?tab=repositories](https://github.com/sid346184?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/sid346184?tab=repositories
 
 - 💬 Ask me about **DSA and Linux**
 
 - 📫 How to reach me **gsid306@gmail.com**
 
-- 📄 Know about my quality different from others [My main OS is ubuntu previous one was kali linux](My main OS is ubuntu previous one was kali linux)
+- 📄 Know about my quality different from others I prefer Linux over Windows 
 
 - ⚡ Fun fact **....I know how to centre a div....**
 
