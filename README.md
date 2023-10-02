@@ -22,6 +22,10 @@
 
 - ⚡ Fun fact **....I know how to centre a div....**
 
+
+<img src="https://holopin.me/sid346184" alt="Hacktober's Holobytes" data-canonical-src="[https://holopin.me/kakashi_sns7](https://holopin.me/sid346184)" style="max-width: 100%;">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddhant-gupta-a2809024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-gupta-a2809024b" height="30" width="40" /></a>
