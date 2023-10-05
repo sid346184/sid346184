@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid346184&label=Profile%20views&color=0e75b6&style=flat" alt="sid346184" /> </p>
 
-
-
 - 🔭 I’m currently working on **reaching and understanding new AI technologies**
 
 - 🌱 I’m currently learning **AI,Ml and OpenCV**
