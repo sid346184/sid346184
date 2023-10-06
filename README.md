@@ -21,7 +21,7 @@
 - ⚡ Fun fact **....I know how to centre a div....**
 
 
-<img src="https://holopin.me/sid346184" alt="Hacktober's Baddges" data-canonical-src="[https://holopin.me/sid346184](https://holopin.me/sid346184)" style="max-width: 100%;">
+<img src="https://holopin.me/sid346184" alt="Hacktober's Baddges" data-canonical-src="(https://holopin.me/sid346184)](https://holopin.io/@sid346184)" style="max-width: 100%;">
 
 
 <h3 align="left">Connect with me:</h3>
