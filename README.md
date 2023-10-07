@@ -71,5 +71,6 @@
 </p>
 
 
-
-<img align="center" alt="coding" src="bottom.gif" style="width: 100%; display: flex; align-items:center ;justify-content:center" data-target="animated-image.originalImage">
+<p align="center">
+<img align="center" alt="coding" src="bottom.gif" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
