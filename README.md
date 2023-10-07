@@ -72,5 +72,5 @@
 
 
 <p align="center">
-<img align="center" alt="coding" src="bottom.gif" style="width: 100%; display: inline-block;" data-target="last.gif">
+<img align="center" alt="img" src="last.gif" style="width: 100%; display: inline-block;" data-target="last">
 </p>
