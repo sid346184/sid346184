@@ -72,5 +72,5 @@
 
 
 <p align="center">
-<img align="center" alt="coding" src="bottom.gif" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="center" alt="coding" src="bottom.gif" style="width: 100%; display: inline-block;" data-target="last.gif">
 </p>
