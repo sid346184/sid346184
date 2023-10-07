@@ -1,4 +1,4 @@
-<img align="right" alt="coding" src="Me1.gif"  style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="coding" src="Me1.gif"  style="max-width: 100%; margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
 <h3 align="center">A passionate programmer</h3>
 
