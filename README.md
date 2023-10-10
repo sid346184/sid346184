@@ -46,13 +46,6 @@
       src="https://github-profile-trophy.vercel.app/?username=sid346184&theme=radical&hide_border=true"
       alt="sid346184" /></a></p>
 
-<p align="center">
-  &nbsp;<img
-           width="467"
-    src="https://github-readme-stats.vercel.app/api?username=sid346184&show_icons=true&locale=en&theme=radical&hide_border=true"
-    alt="sid346184"
-  />
-</p>
 
 <p align="center">
   <img 
@@ -61,6 +54,15 @@
     alt="sid346184"
   />
 </p>
+
+<p align="center">
+  &nbsp;<img
+           width="467"
+    src="https://github-readme-stats.vercel.app/api?username=sid346184&show_icons=true&locale=en&theme=radical&hide_border=true"
+    alt="sid346184"
+  />
+</p>
+
 
 <p align="center">
   <img
