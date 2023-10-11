@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/sid346184?tab=repositories
 
-- 💬 Ask me about **DSA and Linux**
+- 💬 Ask me about **DSA,Webd and Linux**
 
 - 📫 How to reach me **gsid306@gmail.com**
 
