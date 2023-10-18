@@ -1,17 +1,3 @@
-<style>
-  
-#tools p a img {
-    transition: all 0.3s;
-        width: 40px;
-  }
-  
-  #tools p a img:hover {
-    transform: translateY(-15px);
-  }
-</style>
-
-
-
 <img align="right" alt="coding" src="Me1.gif"  style="max-width: 100%; margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
 <h3 align="center">A passionate programmer</h3>
