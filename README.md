@@ -25,7 +25,7 @@
 
 <hr>
 
-<div id="tools">
+<div>
 <hr>
 <h3 align="center">My Social Accounts</h3>
 <p align="center">
