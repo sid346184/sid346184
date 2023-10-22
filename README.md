@@ -26,17 +26,17 @@
 <hr>
 
 <div id="tools">
-	<hr>
-	<h3 align="center">My Social Accounts</h3>
-	<p align="center">
-	<a href="https://linkedin.com/in/siddhant-gupta-a2809024b" target="blank"><img align="center" src="linkedin-svgrepo-com.png" alt="siddhant-gupta-a2809024b" height="30" width="40" /></a>
-	<a href="https://www.youtube.com/channel/UCqC17IThaKXVDG9huIWxg9A" target="blank"><img align="center" src="youtube-svgrepo-com.png" alt="https://www.youtube.com/channel/ucqc17ithakxvdg9huiwxg9a" height="30" width="40" /></a>
-	<a href="https://www.codechef.com/users/gsid306" target="_blank">
-	  <img align="center" src="icons8-codechef-40.png" alt="gsid306" height="30" width="40" ;">
-	</a>
-	<a href="https://instagram.com/sg34576?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-		<img align="center" src="icons8-instagram.png" alt="gsid306" height="40" width="40" ;">
-	  </a>
+<hr>
+<h3 align="center">My Social Accounts</h3>
+<p align="center">
+<a href="https://linkedin.com/in/siddhant-gupta-a2809024b" target="blank"><img align="center" src="linkedin-svgrepo-com.png" alt="siddhant-gupta-a2809024b" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCqC17IThaKXVDG9huIWxg9A" target="blank"><img align="center" src="youtube-svgrepo-com.png" alt="https://www.youtube.com/channel/ucqc17ithakxvdg9huiwxg9a" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gsid306" target="_blank">
+<img align="center" src="icons8-codechef-40.png" alt="gsid306" height="30" width="40" ;">
+</a>
+<a href="https://instagram.com/sg34576?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+<img align="center" src="icons8-instagram.png" alt="gsid306" height="40" width="40" ;">
+</a>
 	<a href="https://www.hackerrank.com/gsid306" target="blank"><img align="center" src="hackerrank.png" alt="gsid306" height="30" width="40" /></a>
 	<a href="https://www.leetcode.com/gsid306" target="blank"><img align="center" src="leetcode.png" alt="gsid306" height="30" width="40" /></a>
 	<a href="https://auth.geeksforgeeks.org/user/gsidf8q4" target="blank"><img align="center" src="icons8-geeksforgeeks-480.png" alt="gsidf8q4" height="30" width="40" /></a>
