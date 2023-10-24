@@ -21,14 +21,8 @@
 - ⚡ Fun fact **....I know how to centre a div....**
 
 
-<img src="https://holopin.me/sid346184" alt="Hacktober's Baddges" data-canonical-src="(https://holopin.me/sid346184)](https://holopin.io/@sid346184)" style="max-width: 100%;">
-
-<hr>
-
-<div id="hack">
 	<h2>Hacktober'23 Badges</h2>
-		<img id="badges" src="https://holopin.me/sid346184" alt="Hacktober's Baddges" data-canonical-src="(https://holopin.me/sid346184)](https://holopin.io/@sid346184)" style="max-width: 90%;">
-		</div>
+<img src="https://holopin.me/sid346184" alt="Hacktober's Baddges" data-canonical-src="(https://holopin.me/sid346184)](https://holopin.io/@sid346184)" style="max-width: 100%;">
 
 <hr>
 
