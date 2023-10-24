@@ -31,7 +31,7 @@
 	<p align="center">
 	<a href="https://linkedin.com/in/siddhant-gupta-a2809024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-gupta-a2809024b" height="30" width="40" /></a>
 	<a href="https://www.youtube.com/channel/UCqC17IThaKXVDG9huIWxg9A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqc17ithakxvdg9huiwxg9a" height="30" width="40" /></a>
-	<a href="https://www.codechef.com/users/gsid306" target="_blank">
+	<a href="https://www.codechef.com/users/gsid3006" target="_blank">
 	  <img align="center" src="icons8-codechef-40.png" alt="gsid306" height="30" width="40" ;">
 	</a>
 	<a href="https://www.hackerrank.com/gsid306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gsid306" height="30" width="40" /></a>
