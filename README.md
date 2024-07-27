@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid346184&label=Profile%20views&color=0e75b6&style=flat" alt="sid346184" /> </p>
 
-- 🔭 I’m currently working on **reaching and understanding new AI technologies**
+- 🔭 I’m currently working on **DevOps,Cloud and Generative AI**
 
-- 🌱 I’m currently learning **AI,Ml and OpenCV**
-
-- 👯 I’m looking to crack **GSoC**
-
-- 👨‍💻 All of my projects are available at https://github.com/sid346184?tab=repositories
+- 👨‍💻 My Portfolio https://portfolio-me-omega.vercel.app/
 
 - 💬 Ask me about **DSA,Webd and Linux**
 
