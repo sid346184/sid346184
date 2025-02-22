@@ -51,7 +51,11 @@
 </p>
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,bitbucket,docker,kubernetes,cloudflare,html,css,js,debian,django,express,fastapi,flask,git,github,gitlab,go,jenkins,kafka,linux,mongodb,mysql,nginx,nodejs,npm,opencv,openshift,openstack,postgres,postman,prometheus,py,r,rails,redhat,redis,ruby,sqlite,scala,selenium,tensorflow,terraform,ts,ubuntu,vim,vscode,cpp,c&perline=7)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bitbucket,docker,kubernetes,cloudflare,html,css,js,debian,django,express,fastapi,flask,git,github,gitlab,go,jenkins,kafka,linux,mongodb,mysql,nginx,nodejs,npm,opencv,openshift,openstack,postgres,postman,prometheus,py,r,rails,redhat,redis,ruby,sqlite,scala,selenium,tensorflow,terraform,ts,ubuntu,vim,vscode,cpp,c" />
+  </a>
+</p>
 
 ---
 
