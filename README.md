@@ -59,7 +59,7 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats  
+ ## 📊 GitHub Stats  
 
 <p align="center">
   <img 
@@ -87,4 +87,4 @@
 
 <p align="center">
 <img align="center" alt="img" src="last1.gif" style="width: 100%; display: inline-block;">
-</p>  --!>
+</p>  
